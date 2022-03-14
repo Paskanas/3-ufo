@@ -6,11 +6,11 @@
 
 # UFO project
 
-_35_UFO website project_
+_35_group_UFO website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://Paskanas.github.io/3-UFO/
+Site published at: https://Paskanas.github.io/3-ufo/
 
 Design: https://cdn.dribbble.com/users/1037652/screenshots/2815937/404-1.png?compress=1&resize=800x600&vertical=top
 
